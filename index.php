@@ -1,3 +1,7 @@
+<head>
+  <meta http-equiv='refresh' content='0; URL=https://saweria.co/makanja'>
+</head>
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://rmvberantakan.com/logo/rcti.png" group-title="Lokal",RCTI (V+)
