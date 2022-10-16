@@ -6,78 +6,65 @@
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9ba3e153ef8956d6e2b0684fcf74f58f&key=dbc28cb5c6426080f984a5b6d436bb30
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://rmvberantakan.com/logo/rcti.png" group-title="Lokal",RCTI (V+)
 https://vision.rmvberantakan.com/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=88f6c7cbd793374cb5f12d7e26dcd63b&key=e82daa7c7bfb03d99327463fdbd37336
 #EXTINF:0 tvg-id="GTV.id" tvg-logo="https://rmvberantakan.com/logo/gtv.png" group-title="Lokal",GTV (V+)
 https://vision.rmvberantakan.com/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=828e0aba9825c3546a2831e4c0c36f7f&key=f85d3dcd38981368ab3da597e97ebdcc
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://rmvberantakan.com/logo/mnctv.png" group-title="Lokal",MNCTV (V)
 https://vision.rmvberantakan.com/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a31cf5136789514b7e12b9cc99307c84&key=980e54d671ffc2b2f4cf54e75cae0ac2
 #EXTINF:0 tvg-id="INews.id" tvg-logo="https://rmvberantakan.com/logo/inews.png" group-title="Lokal",iNewsTV (V+)
 https://vision.rmvberantakan.com/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4310edb8b9ffe79abb40bacafa778ec3&key=aebb7e86d8a336d9a93d3dd8a41153cf
 #EXTINF:0 tvg-id="ANTV.id" tvg-logo="https://rmvberantakan.com/logo/antv.png" group-title="Lokal",ANTV (V+)
 https://vision.rmvberantakan.com/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=26bd60e03bbed7819eea0b27075a1897&key=d221ba6a6ab66e3083c001d2c4a3e5c5
 #EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://rmvberantakan.com/logo/trans7.png" group-title="Lokal",Trans 7 (V+)
 https://vision.rmvberantakan.com/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=334950781f60a66f5e58324b70ac675d&key=73caca97be8999ce9cfeb3babad8669d
 #EXTINF:0 tvg-id="TransTV.id" tvg-logo="https://rmvberantakan.com/logo/transtv.png" group-title="Lokal",Trans TV (V+)
 https://vision.rmvberantakan.com/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=90204c05545f95a262bb0d3ac45de870&key=0e80f2a19fdf8da476bf695cd9570bb2
 #EXTINF:0 tvg-id="TVOne.id" tvg-logo="https://rmvberantakan.com/logo/tvone.png" group-title="Lokal",TVONE (V+)
 https://vision.rmvberantakan.com/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4497473c5b978655ce62de7873e04174&key=6af319f8d82351f8c3b18c9abdfdef4d
 #EXTINF:0 tvg-id="MetroTV.id" tvg-logo="https://rmvberantakan.com/logo/metrotv.png" group-title="Lokal",Metro TV (V+)
 https://vision.rmvberantakan.com/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=493fd10e609dd02ae97964f438e7e530&key=695cf9896182c52f1c3a25820e7778f5
 #EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://rmvberantakan.com/logo/kompastv.png" group-title="Lokal",Kompas TV (V+)
 https://vision.rmvberantakan.com/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="TVRINasional.id" tvg-logo="https://rmvberantakan.com/logo/tvri.png" group-title="Lokal",TVRI (V+)
-https://vision.rmvberantakan.com/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="Net..id" tvg-logo="https://rmvberantakan.com/logo/net.png" group-title="Lokal",Net. (V+)
-https://vision.rmvberantakan.com/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="BeritaSatu.id" tvg-logo="https://rmvberantakan.com/logo/bs.png" group-title="Lokal",Berita Satu (V+)
-https://vision.rmvberantakan.com/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eeea0c2986e91a13eacd590ad1ebfe43&key=0acc16bd84921489f67bad19e4099cae
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rmvberantakan.com/logo/hbo.png" group-title="Movies",HBO ID (V+)
 https://vision.rmvberantakan.com/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ebe6190a3cfbbed4ec34e4d9c7a30e1e&key=d161b1f737e2aee9501149406c8abe9e
 #EXTINF:-1 tvg-id="HBOFamilyAsia.us" tvg-name="HBOFamilyAsia.us" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Movies",HBO Family ID (V+)
 https://vision.rmvberantakan.com/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2d8d9b7ed94fad6e56f1642504605b10&key=cf881ed230797c106f8e6ac843d797f3
 #EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBOHits.us" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="Movies",HBO Hits ID (V+)
 https://vision.rmvberantakan.com/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b64eee6360b118d0d90329cc2c9e4c60&key=4e97aa6422b26ffb372647dbd0a7683c
 #EXTINF:-1 tvg-id="HBOSignatureAsia.us" tvg-name="HBOSignatureAsia.us" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Movies",HBOID (V+) Signature
 https://vision.rmvberantakan.com/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fba45325e2cd8355972ede4981f43b2a&key=d88a4bdd67f89cd21eb074c81de1b994
+
 #EXTINF:-1 tvg-id="CinemaxAsia.us" tvg-name="CinemaxAsia.us" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Movies",Cinemax ID (V+)
 https://vision.rmvberantakan.com/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
