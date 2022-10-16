@@ -55,7 +55,7 @@ https://vision.rmvberantakan.com/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #EXTINF:-1 tvg-id="HBOFamilyAsia.us" tvg-name="HBOFamilyAsia.us" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Movies",HBO Family ID (V+)
 https://vision.rmvberantakan.com/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rmvberantakan.com/clearkey/web/results.php?keyid=6c256f70830647e4bdf654d86e710ed5&key=fe41e9bcbae52f9d233407f7488bca5f
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6c256f70830647e4bdf654d86e710ed5&key=fe41e9bcbae52f9d233407f7488bca5f
 #EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBOHits.us" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="Movies",HBO Hits ID (V+)
 https://vision.rmvberantakan.com/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -64,9 +64,9 @@ https://vision.rmvberantakan.com/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 https://vision.rmvberantakan.com/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fba45325e2cd8355972ede4981f43b2a&key=d88a4bdd67f89cd21eb074c81de1b994
-
 #EXTINF:-1 tvg-id="CinemaxAsia.us" tvg-name="CinemaxAsia.us" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Movies",Cinemax ID (V+)
 https://vision.rmvberantakan.com/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sale.rmvberantakan.com//?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="dusktill.masuk.web.id/img/hits.png" group-title="Movies",HITS (V+)
